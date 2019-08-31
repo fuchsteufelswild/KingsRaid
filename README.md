@@ -5,7 +5,6 @@ The first game I made with Unity. The main purpose is to learn core Unity featur
 The class diagram of the game is at the below:
 
 ![ClassDiagram](./ClassDiagram.png)
-Format: ![Alt Text](url)
 
 To clarify the class diagram:
 
