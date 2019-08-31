@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6118296699264385345
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6118296699264385350}
+  - component: {fileID: 6118296699264385351}
+  m_Layer: 0
+  m_Name: GameObjects
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6118296699264385350
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6118296699264385345}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.16, y: 2.25, z: -4.9023438}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6118296699264385351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6118296699264385345}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f764ccd9656d40d4dba5b83c74cf7271, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  magicProjectiles:
+  - {fileID: 3525129657566759099, guid: f3f04a806071e404c91093dae6584537, type: 3}
+  arrowProjectiles:
+  - {fileID: 4725920715876046053, guid: c808ed70515ce474e8bf461e181d8c63, type: 3}
+  - {fileID: 6572688414714798503, guid: 9855d02b148bda241ac9b7305fac0efc, type: 3}
+  projectileContainer: []
+  attackEffectContainer:
+  - {fileID: 3384268167597443703, guid: 3957a869cc5261c4db3e66d79681a1b6, type: 3}
+  - {fileID: 5255173943016675028, guid: 18473067d9219d9489f3375eba365cad, type: 3}
+  skillEffectContainer: []
+  containers:
+  - {fileID: 4739347576724591976, guid: ca6d6f9967b374f478a3be452934e8bb, type: 3}
+  mobs:
+  - {fileID: 9154221705746543239, guid: 77f11c325b494144394c90e36832c4aa, type: 3}
+  - {fileID: 6951785061120934899, guid: a98399bb18670324eaf3d795393110b3, type: 3}
+  skillIcons:
+  - {fileID: 21300000, guid: cf739c01769e37e479aac3460177bca2, type: 3}
+  - {fileID: 21300000, guid: d3998bd5494beb1418ddebdb4f9b67cd, type: 3}
+  - {fileID: 21300000, guid: 515077a3ff6327b488920014111a143a, type: 3}
+  - {fileID: 21300000, guid: 030d481ac041d0d4f8b8811ed97f3c34, type: 3}
+  itemIcons:
+  - {fileID: 21300000, guid: 1adc16ae6d5addf4fa3379bbe5bf2864, type: 3}
+  - {fileID: 21300000, guid: 1965245b8227c3b45938d021f056e91d, type: 3}
+  - {fileID: 21300000, guid: 1288add606145b44ab6726f1cc831dcd, type: 3}
+  - {fileID: 21300000, guid: 64e04030714c5224bb946548b2e80d21, type: 3}
+  - {fileID: 21300000, guid: d79657b56e5b4274bb47b1b05ab6d185, type: 3}
+  - {fileID: 21300000, guid: 9fae9a6b78d6ca342917f5a1bc7f9fc3, type: 3}
+  - {fileID: 21300000, guid: 9c9bf6ab49a4fd64c9b99726b9446ece, type: 3}
+  - {fileID: 21300000, guid: a7e1a4ef62fc88f45b0577c954c210d0, type: 3}
+  - {fileID: 21300000, guid: 95375c437ede09341ab4fd7f65f9a7a9, type: 3}
+  - {fileID: 21300000, guid: a5e53c30dad558a4985484085563d5a6, type: 3}
+  - {fileID: 21300000, guid: e9d9beb086067da41a976919801f61dc, type: 3}
+  - {fileID: 21300000, guid: a745cccbefed34e4cabd8d8793d9eaf5, type: 3}
+  - {fileID: 21300000, guid: 17844d2b31f4ca04ab8915b8ceeb451a, type: 3}
+  potionIcons:
+  - {fileID: 21300000, guid: 19d1ab9d513d384428818de7dd22c1f9, type: 3}
+  arrowProjectileSprites:
+  - {fileID: 21300000, guid: 7796ea5e56b32b24f9893b2cb2b1b4ff, type: 3}
+  - {fileID: 21300000, guid: 3ecc6d8b8c4c76b4b811a8fc93cf8985, type: 3}
+  - {fileID: -6338519075608859188, guid: ca5f799f2ca7f594190d03a34e53da03, type: 3}
+  armorIcons:
+  - {fileID: 21300000, guid: 54687627bede6834eb2b205358ec932d, type: 3}
+  - {fileID: 21300000, guid: 5e1efd54e4c519c4d95a7fca9c676401, type: 3}
+  - {fileID: 21300000, guid: 7e52289fde8d51d4daba7029bea611c1, type: 3}
+  - {fileID: 21300000, guid: 7ca099986d762dc46a19e93ea512ed92, type: 3}
+  - {fileID: 21300000, guid: 8f0a08ecf45b2254399a8c2dcf8588b1, type: 3}
+  - {fileID: 21300000, guid: 9259018f50644cb449df9a9d66118938, type: 3}
+  - {fileID: 21300000, guid: 8882d88968c159c48a33f16301194f90, type: 3}
+  - {fileID: 21300000, guid: ee6ffefea7bfac246a08bb79e10c91cb, type: 3}
+  - {fileID: 21300000, guid: 3c4b95ac9b270694ca727f6523a8d680, type: 3}
+  - {fileID: 21300000, guid: cc503723b5b3d3148ad26620dbf4fa8f, type: 3}
+  - {fileID: 21300000, guid: 56158e7658aad7b42a581bfb5f0074e1, type: 3}
+  - {fileID: 21300000, guid: 4a5a979394769f64297efc59e37b459e, type: 3}
+  - {fileID: 21300000, guid: 705e63f275324a347b6e94a45d688fbf, type: 3}
+  - {fileID: 21300000, guid: e55559866ca9c0e44aba744d06258e34, type: 3}
+  - {fileID: 21300000, guid: d1b230f194d77094da4c3c3d9589758b, type: 3}
+  backGroundIcons:
+  - {fileID: 21300000, guid: 45609494b9568094f894c954b42ee9d1, type: 3}
+  clips:
+  - {fileID: 8300000, guid: ae02f35d39a68f44098e72c32e93417b, type: 3}
+  - {fileID: 8300000, guid: ffb0b8b204f3a2b47a0a6fc1d481bd1d, type: 3}
+  - {fileID: 8300000, guid: e56c7e526e1d64f46b4a986456e67ed9, type: 3}
+  - {fileID: 8300000, guid: 44e559832a60c9f4e94ae1996e5200aa, type: 3}
+  - {fileID: 8300000, guid: 87f87339ec6fb6a408e695bbef180f73, type: 3}
+  - {fileID: 8300000, guid: 9a41e6278b5d952468da63e9ce9111a3, type: 3}
+  - {fileID: 8300000, guid: ded26ef3526482c48ba2eb7495f77dc1, type: 3}
+  - {fileID: 8300000, guid: d5c5711146e303e44bd136102de58031, type: 3}
+  - {fileID: 8300000, guid: 9e0ab1f58af6b3d449d4a96493882c4a, type: 3}
+  - {fileID: 8300000, guid: e69f7c5a4190d464482cf2681da41a8c, type: 3}
+  - {fileID: 8300000, guid: c68e5b506481f684eb5ef32c4ba750d2, type: 3}

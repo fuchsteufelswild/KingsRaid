@@ -1,0 +1,2571 @@
+fileFormatVersion: 2
+guid: 01793e117b324ca40bf959105c9b1e0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5859407067698585162
+    second: goblin spritesheet calciumtrice_0
+  - first:
+      213: 4954084730206865001
+    second: goblin spritesheet calciumtrice_1
+  - first:
+      213: 768734761568547881
+    second: goblin spritesheet calciumtrice_2
+  - first:
+      213: 3477455092311159821
+    second: goblin spritesheet calciumtrice_3
+  - first:
+      213: 1493345255227400589
+    second: goblin spritesheet calciumtrice_4
+  - first:
+      213: -8962926035978539907
+    second: goblin spritesheet calciumtrice_5
+  - first:
+      213: -5806122572580517362
+    second: goblin spritesheet calciumtrice_6
+  - first:
+      213: -816314012314255906
+    second: goblin spritesheet calciumtrice_7
+  - first:
+      213: 7764445211701326269
+    second: goblin spritesheet calciumtrice_8
+  - first:
+      213: -1698106557708451413
+    second: goblin spritesheet calciumtrice_9
+  - first:
+      213: -5219123148158808031
+    second: goblin spritesheet calciumtrice_10
+  - first:
+      213: -2070876367442173999
+    second: goblin spritesheet calciumtrice_11
+  - first:
+      213: -4945205410767855090
+    second: goblin spritesheet calciumtrice_12
+  - first:
+      213: 3317186365943052185
+    second: goblin spritesheet calciumtrice_13
+  - first:
+      213: 4719309582044990598
+    second: goblin spritesheet calciumtrice_14
+  - first:
+      213: -7709653152157680148
+    second: goblin spritesheet calciumtrice_15
+  - first:
+      213: 8705741745861886535
+    second: goblin spritesheet calciumtrice_16
+  - first:
+      213: -3404474633055480950
+    second: goblin spritesheet calciumtrice_17
+  - first:
+      213: 5119013895242351954
+    second: goblin spritesheet calciumtrice_18
+  - first:
+      213: -2855544106769934707
+    second: goblin spritesheet calciumtrice_19
+  - first:
+      213: -6596287753110220080
+    second: goblin spritesheet calciumtrice_20
+  - first:
+      213: -3171419606157340266
+    second: goblin spritesheet calciumtrice_21
+  - first:
+      213: 6056632417288185324
+    second: goblin spritesheet calciumtrice_22
+  - first:
+      213: -8664217770265832027
+    second: goblin spritesheet calciumtrice_23
+  - first:
+      213: -312234458386669512
+    second: goblin spritesheet calciumtrice_24
+  - first:
+      213: 8866599327086590282
+    second: goblin spritesheet calciumtrice_25
+  - first:
+      213: 2412328320139159507
+    second: goblin spritesheet calciumtrice_26
+  - first:
+      213: 6664066067549734407
+    second: goblin spritesheet calciumtrice_27
+  - first:
+      213: -5437232171639802477
+    second: goblin spritesheet calciumtrice_28
+  - first:
+      213: 6947911554177327372
+    second: goblin spritesheet calciumtrice_29
+  - first:
+      213: -7761994682186873413
+    second: goblin spritesheet calciumtrice_30
+  - first:
+      213: 7705319251949181163
+    second: goblin spritesheet calciumtrice_31
+  - first:
+      213: 7643827816799044348
+    second: goblin spritesheet calciumtrice_32
+  - first:
+      213: -3705729310959407563
+    second: goblin spritesheet calciumtrice_33
+  - first:
+      213: -507333756655069825
+    second: goblin spritesheet calciumtrice_34
+  - first:
+      213: -8401209841991405816
+    second: goblin spritesheet calciumtrice_35
+  - first:
+      213: -3359644003434627969
+    second: goblin spritesheet calciumtrice_36
+  - first:
+      213: -561633456731025602
+    second: goblin spritesheet calciumtrice_37
+  - first:
+      213: 9026447738568791274
+    second: goblin spritesheet calciumtrice_38
+  - first:
+      213: 7264003953361452446
+    second: goblin spritesheet calciumtrice_39
+  - first:
+      213: 6503006664116607552
+    second: goblin spritesheet calciumtrice_40
+  - first:
+      213: -6213019282747526520
+    second: goblin spritesheet calciumtrice_41
+  - first:
+      213: -8164749008262649711
+    second: goblin spritesheet calciumtrice_42
+  - first:
+      213: -3580129002237835981
+    second: goblin spritesheet calciumtrice_43
+  - first:
+      213: 1569566131838793972
+    second: goblin spritesheet calciumtrice_44
+  - first:
+      213: 4961727053200004376
+    second: goblin spritesheet calciumtrice_45
+  - first:
+      213: -5734627428363966318
+    second: goblin spritesheet calciumtrice_46
+  - first:
+      213: -3998300283032625552
+    second: goblin spritesheet calciumtrice_47
+  - first:
+      213: 4229140971071477456
+    second: goblin spritesheet calciumtrice_48
+  - first:
+      213: -1659454143468946755
+    second: goblin spritesheet calciumtrice_49
+  - first:
+      213: -27495883366763839
+    second: goblin spritesheet calciumtrice_50
+  - first:
+      213: 5875245455728031545
+    second: goblin spritesheet calciumtrice_51
+  - first:
+      213: 1967607888241021268
+    second: goblin spritesheet calciumtrice_52
+  - first:
+      213: 2146548287596059082
+    second: goblin spritesheet calciumtrice_53
+  - first:
+      213: -7980674322246114627
+    second: goblin spritesheet calciumtrice_54
+  - first:
+      213: 526683277387690784
+    second: goblin spritesheet calciumtrice_55
+  - first:
+      213: -7147418514371819192
+    second: goblin spritesheet calciumtrice_56
+  - first:
+      213: -449027630023082295
+    second: goblin spritesheet calciumtrice_57
+  - first:
+      213: -3429186297573303017
+    second: goblin spritesheet calciumtrice_58
+  - first:
+      213: -5245701774177507026
+    second: goblin spritesheet calciumtrice_59
+  - first:
+      213: -190371964114055239
+    second: goblin spritesheet calciumtrice_60
+  - first:
+      213: 5139894560322203313
+    second: goblin spritesheet calciumtrice_61
+  - first:
+      213: -6857222597263132523
+    second: goblin spritesheet calciumtrice_62
+  - first:
+      213: 4254551150934289680
+    second: goblin spritesheet calciumtrice_63
+  - first:
+      213: -2338229536806457712
+    second: goblin spritesheet calciumtrice_64
+  - first:
+      213: 1221401111214754755
+    second: goblin spritesheet calciumtrice_65
+  - first:
+      213: 7232797873215931511
+    second: goblin spritesheet calciumtrice_66
+  - first:
+      213: 1616754852989721797
+    second: goblin spritesheet calciumtrice_67
+  - first:
+      213: -3651410712940025810
+    second: goblin spritesheet calciumtrice_68
+  - first:
+      213: 8580811263006783013
+    second: goblin spritesheet calciumtrice_69
+  - first:
+      213: -497988423492325016
+    second: goblin spritesheet calciumtrice_70
+  - first:
+      213: 3456972832633431794
+    second: goblin spritesheet calciumtrice_71
+  - first:
+      213: 8212852248472270339
+    second: goblin spritesheet calciumtrice_72
+  - first:
+      213: -6010224847204497672
+    second: goblin spritesheet calciumtrice_73
+  - first:
+      213: -1096351458735065138
+    second: goblin spritesheet calciumtrice_74
+  - first:
+      213: 7716420097030173967
+    second: goblin spritesheet calciumtrice_75
+  - first:
+      213: 4727912472171557805
+    second: goblin spritesheet calciumtrice_76
+  - first:
+      213: 7921137688550069891
+    second: goblin spritesheet calciumtrice_77
+  - first:
+      213: -1137261432476028932
+    second: goblin spritesheet calciumtrice_78
+  - first:
+      213: 3487915391403714660
+    second: goblin spritesheet calciumtrice_79
+  - first:
+      213: 6366025193198696349
+    second: goblin spritesheet calciumtrice_80
+  - first:
+      213: 8661292267280962512
+    second: goblin spritesheet calciumtrice_81
+  - first:
+      213: -5999647371796458236
+    second: goblin spritesheet calciumtrice_82
+  - first:
+      213: -3911601843504723367
+    second: goblin spritesheet calciumtrice_83
+  - first:
+      213: -7372296942898223399
+    second: goblin spritesheet calciumtrice_84
+  - first:
+      213: 1801306525313355826
+    second: goblin spritesheet calciumtrice_85
+  - first:
+      213: -5842810033568783536
+    second: goblin spritesheet calciumtrice_86
+  - first:
+      213: 8282739841127084588
+    second: goblin spritesheet calciumtrice_87
+  - first:
+      213: 6298649411579539580
+    second: goblin spritesheet calciumtrice_88
+  - first:
+      213: -2808337810013595181
+    second: goblin spritesheet calciumtrice_89
+  - first:
+      213: -1806280819135039160
+    second: goblin spritesheet calciumtrice_90
+  - first:
+      213: 1200492785319196062
+    second: goblin spritesheet calciumtrice_91
+  - first:
+      213: 1231954091688207635
+    second: goblin spritesheet calciumtrice_92
+  - first:
+      213: 6957499592039878096
+    second: goblin spritesheet calciumtrice_93
+  - first:
+      213: 1074433501420776552
+    second: goblin spritesheet calciumtrice_94
+  - first:
+      213: 2682988596843838814
+    second: goblin spritesheet calciumtrice_95
+  - first:
+      213: 1340996165715625404
+    second: goblin spritesheet calciumtrice_96
+  - first:
+      213: 4860744157675440718
+    second: goblin spritesheet calciumtrice_97
+  - first:
+      213: 7493625855737293545
+    second: goblin spritesheet calciumtrice_98
+  - first:
+      213: -3262279214007707017
+    second: goblin spritesheet calciumtrice_99
+  - first:
+      213: -1355735826534826862
+    second: goblin spritesheet calciumtrice_100
+  - first:
+      213: -3160770544190404564
+    second: goblin spritesheet calciumtrice_101
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 288
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba830fc28957a89488a8817272ba4f0f
+      internalID: 5859407067698585162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 288
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e992781f18fccc42a86ed65d56114c2
+      internalID: 4954084730206865001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 288
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4f334ebbc2bb740ad6428073e3f2f6
+      internalID: 768734761568547881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 288
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772ff097871b795489ff2d76601e58cc
+      internalID: 3477455092311159821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 288
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b0070fd230d9a4eb763d77a571f730
+      internalID: 1493345255227400589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 288
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd0cb0f7f9e9ac44a9d199a6482ae06
+      internalID: -8962926035978539907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 288
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bba10fb1f5c434a9889f4bcc8c5bf1
+      internalID: -5806122572580517362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 288
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a078c7e01f88c45a714bd493115c5c
+      internalID: -816314012314255906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 288
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197d5725ee6752646b6cac3186477095
+      internalID: 7764445211701326269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 288
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b984b434643abbc4d8c2d08ef75038d7
+      internalID: -1698106557708451413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 256
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefeb55a728f8ff479e00ebc878519e3
+      internalID: -5219123148158808031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 256
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae77ce9f49d0da243806a1443a11c72d
+      internalID: -2070876367442173999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 256
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12276fdb0a8a2fa46a5e056682632b8d
+      internalID: -4945205410767855090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 256
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb990656840d79346be5640701c58253
+      internalID: 3317186365943052185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 256
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e4d004bb691424c93557263c8721ac
+      internalID: 4719309582044990598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 256
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3429cad2f3e8c74c98a9929aa609ec3
+      internalID: -7709653152157680148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 256
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c61d7859de7784ca241be9e42c67df
+      internalID: 8705741745861886535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 256
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb943854d3d90e4fadbcedd95b00929
+      internalID: -3404474633055480950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 256
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e73731873477b140a87a5f169edf3e4
+      internalID: 5119013895242351954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 256
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4bbdc46fb638546970c085d3b6d924
+      internalID: -2855544106769934707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 224
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db002f2f2fc9b514c9d54bd426fbbc4d
+      internalID: -6596287753110220080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 224
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405cb59a800eac74b8b46a17940d576b
+      internalID: -3171419606157340266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 225
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaba4fd20ee1c54a9c594950b51d2c2
+      internalID: 6056632417288185324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 226
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7e9c6a53a8bc246ae73217f6429840
+      internalID: -8664217770265832027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_24
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 224
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224359f21bfc6144e94c22b99525c84a
+      internalID: -312234458386669512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 224
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263dd07f8e5fcbc48a2dfb44444c4bad
+      internalID: 8866599327086590282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_26
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 224
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da39c4167cec3b245a4774f7f7cfdbc7
+      internalID: 2412328320139159507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 225
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f41b85a5a6d51e419141b2d565f6cea
+      internalID: 6664066067549734407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_28
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 226
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d9bbb8f3152e146a69f4efb591b4ff
+      internalID: -5437232171639802477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_29
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 225
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0546bbf3fcab90e47b052dbd4152880b
+      internalID: 6947911554177327372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 192
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1c0c98e596f654bb06e9db1234f2a4
+      internalID: -7761994682186873413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 192
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd926da63c08f142966b6a23c57adbc
+      internalID: 7705319251949181163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 192
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5894e06122210af47b14db1b6422a9c8
+      internalID: 7643827816799044348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_33
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 192
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a846bae90deb9234c9b20bfe8655850b
+      internalID: -3705729310959407563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_34
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 192
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b1bcf2351cd5147adfb88bd5c69d4f
+      internalID: -507333756655069825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_35
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 192
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2022be900e6732b4e83a71c9f9eb2922
+      internalID: -8401209841991405816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_36
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 192
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dcc0029f77fe449b1a6e053a0f20b2
+      internalID: -3359644003434627969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_37
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 192
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ed39e6dbc2e7c439ce3f912755e86d
+      internalID: -561633456731025602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_38
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 192
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c551472429ff845ae19fb367e2610c
+      internalID: 9026447738568791274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_39
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 192
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328549bf9764c0243942d833ff766a4d
+      internalID: 7264003953361452446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 160
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17f385fe2e221145a878acb01b28db2
+      internalID: 6503006664116607552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 160
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caabff1c9ce93b64fb0d9287372de3a0
+      internalID: -6213019282747526520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_42
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 160
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d513bd6e8c2b969428004cf4428cdc78
+      internalID: -8164749008262649711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 160
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413138fa15465604098865d836b8da3f
+      internalID: -3580129002237835981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_44
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 175
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0d1ed0d1d33984089ff699cd89d9e1
+      internalID: 1569566131838793972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_45
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 160
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11453a3ee1b5cf740853c4fb14ec3349
+      internalID: 4961727053200004376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_46
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 174
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcbe795048add04580b1d92c98b40f9
+      internalID: -5734627428363966318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_47
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 160
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b86fc793a04264b8c35e89daf8c69d
+      internalID: -3998300283032625552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 160
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6078ad1b2209e4388931df09aaabd4
+      internalID: 4229140971071477456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_49
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 160
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1494e169925500241b09e06e535a2d60
+      internalID: -1659454143468946755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 160
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f281b0ba253d942ab702882c181f70
+      internalID: -27495883366763839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_51
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 160
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ee98fd1022abc4c89d54fca931c123
+      internalID: 5875245455728031545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 128
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7795d771dac80fc47b6c66433c3e5273
+      internalID: 1967607888241021268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 128
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d60855da5d95f43924ee8f7205b2b5
+      internalID: 2146548287596059082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_54
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 128
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514be37878d32bc4b9828e0402ccada9
+      internalID: -7980674322246114627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 128
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f377b21e5d3814585cd96cb3fcd80c
+      internalID: 526683277387690784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_56
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 128
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7bba71b6a46544c970c4974e8b9151
+      internalID: -7147418514371819192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_57
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 128
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e98a17775e1c0f44b3d2e6c70b6f042
+      internalID: -449027630023082295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_58
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 128
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56cdeb5b2d440b4280dd2bf3d2e6077
+      internalID: -3429186297573303017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_59
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 128
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce268ce140703f84684c4ff960b4142a
+      internalID: -5245701774177507026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_60
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 128
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8a2cb9d5a6eb84ea94ca5e8403c21d
+      internalID: -190371964114055239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_61
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 128
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5cdf10ba9fd69418eadd8d96639411
+      internalID: 5139894560322203313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfdbd2fe92044e478189694cc95faf2
+      internalID: -6857222597263132523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_63
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 96
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e027729cf68553145aed4aa4ca385105
+      internalID: 4254551150934289680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_64
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53cfef35726f6e468b50386e13a43de
+      internalID: -2338229536806457712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_65
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 96
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf72f5a1ef05f4e45ba6ef12afb05930
+      internalID: 1221401111214754755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_66
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 96
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632dc86f5c751654c831ad7731f82fe7
+      internalID: 7232797873215931511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_67
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 96
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d181050edb4e91a4887cb64a071ece8d
+      internalID: 1616754852989721797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_68
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 96
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf329cea1732ad489d8f28a3b4c44ec
+      internalID: -3651410712940025810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_69
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 96
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c0a764144e4fb41bee3be7b0ff8f56
+      internalID: 8580811263006783013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_70
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 96
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908605e653e6ee24da1e14d170aae4c1
+      internalID: -497988423492325016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_71
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 96
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deef7fe31cc2a3c45a70a62629d31fde
+      internalID: 3456972832633431794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4054bc05b055b44c91fd714e61273ca
+      internalID: 8212852248472270339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_73
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80458461234a204591e25ab9dd42488
+      internalID: -6010224847204497672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_74
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 65
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994af9a371d1e0c4bb1aa9bb771f79d3
+      internalID: -1096351458735065138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_75
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 65
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974d9baa25b7514429503729955f7e68
+      internalID: 7716420097030173967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_76
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 64
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763454d4be1b4b54eb60451764d0d88c
+      internalID: 4727912472171557805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_77
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 64
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ec2aadaf47b394fbb6e66744e1981d
+      internalID: 7921137688550069891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 64
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdc56ee9ad3f404a81f288f636d4b82
+      internalID: -1137261432476028932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_79
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 65
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee845ddb5126ad42932929220324da6
+      internalID: 3487915391403714660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_80
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 65
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5760b9895aae640458071b6cce92994c
+      internalID: 6366025193198696349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_81
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 64
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd97160a9aa09349979e961f87a0923
+      internalID: 8661292267280962512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_82
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9af585c5ca0a34ab5ca5996997168a
+      internalID: -5999647371796458236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_83
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 32
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad98cde4b2b94f8468b12b6d8022f134
+      internalID: -3911601843504723367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_84
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 32
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e4008b13c3dba4286c80fff77e674d
+      internalID: -7372296942898223399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_85
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 32
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87fa684cdf56164d89083b5f27ae905
+      internalID: 1801306525313355826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_86
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 32
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5a390bb11995540bcdf29ccdc63dda
+      internalID: -5842810033568783536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_87
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 32
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc6a533079178c42a13f74931bc2820
+      internalID: 8282739841127084588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_88
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 32
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770ad9dc546ccdd44a5d67c2f2a2090a
+      internalID: 6298649411579539580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_89
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 32
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a445c8ecc29f5bd4c9f412f0930064f4
+      internalID: -2808337810013595181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_90
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 32
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b00c4e1b4d8ee4a9e2c1e7380e4bc9
+      internalID: -1806280819135039160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_91
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 32
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5431330c717a4748b6789c7054029e7
+      internalID: 1200492785319196062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_92
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af511154ee78c0f419877d7cd854b5bf
+      internalID: 1231954091688207635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_93
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d149b0ee7408e8540875c45b0023fd0c
+      internalID: 6957499592039878096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_94
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da035c048d04ec0458396b26754d5c21
+      internalID: 1074433501420776552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_95
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78823934b7b7c67419412acaa5f1a110
+      internalID: 2682988596843838814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_96
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e005f7049e1ea499b0f396fc2c0aec
+      internalID: 1340996165715625404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_97
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4281ad12c9403e46926a26846982ad9
+      internalID: 4860744157675440718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9fe40d3ec4255459fd07dfc85ec290
+      internalID: 7493625855737293545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_99
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87406f320f92ff84084803963c9ed4b5
+      internalID: -3262279214007707017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17769cac661223498faae02ca041ca8
+      internalID: -1355735826534826862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin spritesheet calciumtrice_101
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319e14ab99fbe444a87085e37637b2ca
+      internalID: -3160770544190404564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5b89266c92a1c6049bb26af4ba74da5e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

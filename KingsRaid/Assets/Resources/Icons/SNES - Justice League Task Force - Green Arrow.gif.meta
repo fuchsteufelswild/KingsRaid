@@ -1,0 +1,1827 @@
+fileFormatVersion: 2
+guid: ca5f799f2ca7f594190d03a34e53da03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8925060356197734852
+    second: SNES - Justice League Task Force - Green Arrow_0
+  - first:
+      213: 6786703503654350360
+    second: SNES - Justice League Task Force - Green Arrow_1
+  - first:
+      213: -3056646737961305687
+    second: SNES - Justice League Task Force - Green Arrow_2
+  - first:
+      213: -1283795651077000133
+    second: SNES - Justice League Task Force - Green Arrow_3
+  - first:
+      213: 5830228173527598088
+    second: SNES - Justice League Task Force - Green Arrow_4
+  - first:
+      213: 8146193411824891190
+    second: SNES - Justice League Task Force - Green Arrow_5
+  - first:
+      213: 917295671903744289
+    second: SNES - Justice League Task Force - Green Arrow_6
+  - first:
+      213: 3663861435972878827
+    second: SNES - Justice League Task Force - Green Arrow_7
+  - first:
+      213: -7505367504743454012
+    second: SNES - Justice League Task Force - Green Arrow_8
+  - first:
+      213: -3148246378566446572
+    second: SNES - Justice League Task Force - Green Arrow_9
+  - first:
+      213: -3432459005512282738
+    second: SNES - Justice League Task Force - Green Arrow_10
+  - first:
+      213: 3339515116413731244
+    second: SNES - Justice League Task Force - Green Arrow_11
+  - first:
+      213: -5304945478239257612
+    second: SNES - Justice League Task Force - Green Arrow_12
+  - first:
+      213: -1986481173507789528
+    second: SNES - Justice League Task Force - Green Arrow_13
+  - first:
+      213: -2749643742274051921
+    second: SNES - Justice League Task Force - Green Arrow_14
+  - first:
+      213: 3573271461371895685
+    second: SNES - Justice League Task Force - Green Arrow_15
+  - first:
+      213: 4077068335856226889
+    second: SNES - Justice League Task Force - Green Arrow_16
+  - first:
+      213: 551915328347404127
+    second: SNES - Justice League Task Force - Green Arrow_17
+  - first:
+      213: -7920866666907666248
+    second: SNES - Justice League Task Force - Green Arrow_18
+  - first:
+      213: -3077614853440464650
+    second: SNES - Justice League Task Force - Green Arrow_19
+  - first:
+      213: -371531884931308576
+    second: SNES - Justice League Task Force - Green Arrow_20
+  - first:
+      213: 1969865659805613384
+    second: SNES - Justice League Task Force - Green Arrow_21
+  - first:
+      213: -7185204112520781984
+    second: SNES - Justice League Task Force - Green Arrow_22
+  - first:
+      213: -689390661345645761
+    second: SNES - Justice League Task Force - Green Arrow_23
+  - first:
+      213: 5513703495391114051
+    second: SNES - Justice League Task Force - Green Arrow_24
+  - first:
+      213: -7672682175074810194
+    second: SNES - Justice League Task Force - Green Arrow_25
+  - first:
+      213: 3202811215358180931
+    second: SNES - Justice League Task Force - Green Arrow_26
+  - first:
+      213: -9221205229963833590
+    second: SNES - Justice League Task Force - Green Arrow_27
+  - first:
+      213: 2321537018853758331
+    second: SNES - Justice League Task Force - Green Arrow_28
+  - first:
+      213: 6478415787654756216
+    second: SNES - Justice League Task Force - Green Arrow_29
+  - first:
+      213: -4864487770247076527
+    second: SNES - Justice League Task Force - Green Arrow_30
+  - first:
+      213: 8445205845062292162
+    second: SNES - Justice League Task Force - Green Arrow_31
+  - first:
+      213: 93135347356483310
+    second: SNES - Justice League Task Force - Green Arrow_32
+  - first:
+      213: -7202397838625459506
+    second: SNES - Justice League Task Force - Green Arrow_33
+  - first:
+      213: -7366321537546471991
+    second: SNES - Justice League Task Force - Green Arrow_34
+  - first:
+      213: 6408000591541920212
+    second: SNES - Justice League Task Force - Green Arrow_35
+  - first:
+      213: -2049666141689495546
+    second: SNES - Justice League Task Force - Green Arrow_36
+  - first:
+      213: -3028235381401604432
+    second: SNES - Justice League Task Force - Green Arrow_37
+  - first:
+      213: 6869224973524802148
+    second: SNES - Justice League Task Force - Green Arrow_38
+  - first:
+      213: -2761439262845698999
+    second: SNES - Justice League Task Force - Green Arrow_39
+  - first:
+      213: 1272224565556882268
+    second: SNES - Justice League Task Force - Green Arrow_40
+  - first:
+      213: -3467218766396918634
+    second: SNES - Justice League Task Force - Green Arrow_41
+  - first:
+      213: -1299056607815226135
+    second: SNES - Justice League Task Force - Green Arrow_42
+  - first:
+      213: 6958695834122856669
+    second: SNES - Justice League Task Force - Green Arrow_43
+  - first:
+      213: 2827134950879921244
+    second: SNES - Justice League Task Force - Green Arrow_44
+  - first:
+      213: -2052208712614299061
+    second: SNES - Justice League Task Force - Green Arrow_45
+  - first:
+      213: -3697338803571969904
+    second: SNES - Justice League Task Force - Green Arrow_46
+  - first:
+      213: -1025028521180465203
+    second: SNES - Justice League Task Force - Green Arrow_47
+  - first:
+      213: -2755907241503875572
+    second: SNES - Justice League Task Force - Green Arrow_48
+  - first:
+      213: -1700025110780582058
+    second: SNES - Justice League Task Force - Green Arrow_49
+  - first:
+      213: 4432283141652544276
+    second: SNES - Justice League Task Force - Green Arrow_50
+  - first:
+      213: -3835522082030945720
+    second: SNES - Justice League Task Force - Green Arrow_51
+  - first:
+      213: -6110976276966477264
+    second: SNES - Justice League Task Force - Green Arrow_52
+  - first:
+      213: -1374743922238381905
+    second: SNES - Justice League Task Force - Green Arrow_53
+  - first:
+      213: -6073244698149418740
+    second: SNES - Justice League Task Force - Green Arrow_54
+  - first:
+      213: 3909040160400280082
+    second: SNES - Justice League Task Force - Green Arrow_55
+  - first:
+      213: -6220869449585335196
+    second: SNES - Justice League Task Force - Green Arrow_56
+  - first:
+      213: -3221445219471413031
+    second: SNES - Justice League Task Force - Green Arrow_57
+  - first:
+      213: 801260656205559587
+    second: SNES - Justice League Task Force - Green Arrow_58
+  - first:
+      213: -6338519075608859188
+    second: SNES - Justice League Task Force - Green Arrow_59
+  - first:
+      213: -5824299058881910145
+    second: SNES - Justice League Task Force - Green Arrow_60
+  - first:
+      213: -3942511318657809337
+    second: SNES - Justice League Task Force - Green Arrow_61
+  - first:
+      213: 1522567491782755942
+    second: SNES - Justice League Task Force - Green Arrow_62
+  - first:
+      213: -5693553294803545819
+    second: SNES - Justice League Task Force - Green Arrow_63
+  - first:
+      213: 3652132248747628602
+    second: SNES - Justice League Task Force - Green Arrow_64
+  - first:
+      213: -5394134606142935639
+    second: SNES - Justice League Task Force - Green Arrow_65
+  - first:
+      213: -2927377899385691739
+    second: SNES - Justice League Task Force - Green Arrow_66
+  - first:
+      213: -1068295675040865416
+    second: SNES - Justice League Task Force - Green Arrow_67
+  - first:
+      213: -7858253589149444504
+    second: SNES - Justice League Task Force - Green Arrow_68
+  - first:
+      213: -1058063838411795862
+    second: SNES - Justice League Task Force - Green Arrow_69
+  - first:
+      213: 8518779920104395460
+    second: SNES - Justice League Task Force - Green Arrow_70
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 746
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233c365ab1f2c9f45bb4b2ba43855508
+      internalID: -8925060356197734852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 746
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7403992c6772e40a16cb72a46ad387
+      internalID: 6786703503654350360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 746
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf14d836943f20a46a3d824646fe5406
+      internalID: -3056646737961305687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 738
+        width: 52
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b352bd33d1951824a9022b52db85dd39
+      internalID: -1283795651077000133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 747
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942444b6f2d86304098d0b9737d89673
+      internalID: 5830228173527598088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 737
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be86d94b1302ba64481da6c284e7c2cb
+      internalID: 8146193411824891190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 766
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f54d9cb8f30c34c9cf2798bbb279d6
+      internalID: 917295671903744289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 747
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598515672b055a847a9dcc7e49e8640d
+      internalID: 3663861435972878827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_8
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 756
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c345ef23915f74bab6a39276754dff
+      internalID: -7505367504743454012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_9
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 765
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9b83a7822e0c94dbea94c47ac2bff8
+      internalID: -3148246378566446572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 664
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc2eaa52e8eb5f4da554875636b70b3
+      internalID: -3432459005512282738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 657
+        width: 65
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f93e0a1b47a5d346a54e0f725d4c34f
+      internalID: 3339515116413731244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 654
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d13f73313d3aa43bc9de0f1646c302
+      internalID: -5304945478239257612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 654
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791313e4a13a15049aa2777efd961e0a
+      internalID: -1986481173507789528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_14
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 651
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73e174cc15b7e04f802927bddf994bb
+      internalID: -2749643742274051921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_15
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 699
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8068c437e7a0985408bab2d2bd3c8535
+      internalID: 3573271461371895685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 704
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0e2f5f5224c054fa72f71a57ac9a2b
+      internalID: 4077068335856226889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_17
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 704
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dafee25f2c1b44aaef6b887096cbad
+      internalID: 551915328347404127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_18
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 703
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec38286df131424dad48120c9f1724c
+      internalID: -7920866666907666248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_19
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 648
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9153a2a290b60714fb8936ec60e13c5b
+      internalID: -3077614853440464650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_20
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 652
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bab1edcd5771f4da3f65dfaf49e7b4
+      internalID: -371531884931308576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_21
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 652
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe455e714798b9419fa3965beca71b0
+      internalID: 1969865659805613384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_22
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 651
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6978480715d122b42bc666af43a1d419
+      internalID: -7185204112520781984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 571
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd162320af2f41843bebfc9d375bc6cf
+      internalID: -689390661345645761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 567
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a672087a3a7bf49922a6450a3c530d
+      internalID: 5513703495391114051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 565
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9d359ea93eb994a9328b9e7730aa16
+      internalID: -7672682175074810194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_26
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 565
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6051b0c6505d140ac65601954880ce
+      internalID: 3202811215358180931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_27
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 564
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fb1256ab342414ab203d652d4032f9
+      internalID: -9221205229963833590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_28
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 562
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628be2f438ba73346afc44f617d02837
+      internalID: 2321537018853758331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 476
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df11c1dce30ee4444a9128816ee2aa7b
+      internalID: 6478415787654756216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_30
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 484
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f020b1bcf50d8499855db85cb505a4
+      internalID: -4864487770247076527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_31
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 473
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3fa8e007b270145a3b769b092b60ff
+      internalID: 8445205845062292162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_32
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 472
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b94900e83cc7f458b3c513c43a6168
+      internalID: 93135347356483310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_33
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 474
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ea157fef92d574a8e5261d22dafc5b
+      internalID: -7202397838625459506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_34
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 474
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a673f920ada5ee43b4d5fd7933da538
+      internalID: -7366321537546471991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_35
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 476
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea52a3cffea8e9d4da6593bf82c7da0e
+      internalID: 6408000591541920212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_36
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 477
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970b8e1496b88d84598d63955e97a17f
+      internalID: -2049666141689495546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_37
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 386
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6f24d88250bb04c90df2bdde96b17e
+      internalID: -3028235381401604432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 383
+        width: 58
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68da17a4b9cc814891f5fc1c782d35b
+      internalID: 6869224973524802148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_39
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 382
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3914e92a57e9eec459948df87f5c3a04
+      internalID: -2761439262845698999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 380
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcde5234819b54e4aa0a5c12c609a194
+      internalID: 1272224565556882268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_41
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 377
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3392aa63ede5b40b9ff084d46adae7
+      internalID: -3467218766396918634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 378
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ec3805bd7c3924d8ea8c7c83a2e7cf
+      internalID: -1299056607815226135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_43
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 378
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bab417f60433f4598f37c8a6549de8
+      internalID: 6958695834122856669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_44
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 373
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5726cb0de9a02ee46a3c119cf89767c5
+      internalID: 2827134950879921244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_45
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 373
+        width: 55
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6929e3f4ac8fa034bb06323071e6b041
+      internalID: -2052208712614299061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 292
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ca8f1b33778484eb14e656a96015fc
+      internalID: -3697338803571969904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_47
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 293
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edc7d2f6e6a2004586ba1f05e9cf2e4
+      internalID: -1025028521180465203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_48
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 287
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67383615098d9944ad94852ad1ae013
+      internalID: -2755907241503875572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_49
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 285
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665804f87158f5049b7777ffa2372755
+      internalID: -1700025110780582058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_50
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 289
+        width: 43
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26758cc94b874ed46b9a1f25d0801e28
+      internalID: 4432283141652544276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_51
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 290
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4236b930abae7b745ab2ad08b851b784
+      internalID: -3835522082030945720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_52
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 292
+        width: 103
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6c77d4f189ba04f97976f027f6a8da
+      internalID: -6110976276966477264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_53
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 90
+        width: 57
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fe74078f0171e43bb33e7c452fed70
+      internalID: -1374743922238381905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_54
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 196
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a063503ab2e3674499e60214802e54a
+      internalID: -6073244698149418740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_55
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 194
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5380dc6c61423944a8952d49283ef54a
+      internalID: 3909040160400280082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_56
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 192
+        width: 118
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f3813f6d97b4a43b49a6903a127aec
+      internalID: -6220869449585335196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_57
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 188
+        width: 86
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbd5b358e77be4469f053f96a4189fb
+      internalID: -3221445219471413031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_58
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 198
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df31849ef74727478cdd0f226733155
+      internalID: 801260656205559587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_59
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 199
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25641efb9c1d5184f984a545ba89fd11
+      internalID: -6338519075608859188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_60
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 92
+        width: 103
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb6217121c6a384b8ef1b51a7379dd8
+      internalID: -5824299058881910145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_61
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 89
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d0d04bfb7a4eb46aad6225066b2677
+      internalID: -3942511318657809337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_62
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 88
+        width: 81
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc56baab8ee3494791180ee0237be27
+      internalID: 1522567491782755942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_63
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 91
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6253bd6991e567742911432a14d2373b
+      internalID: -5693553294803545819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_64
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 92
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4763e2effa4d04b8c64a3ce5a1b58f
+      internalID: 3652132248747628602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_65
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bf21ad1ab73c349bc719676a5912e5
+      internalID: -5394134606142935639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_66
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 5
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1111fe3827fd942b6e7c3b60f4f588
+      internalID: -2927377899385691739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_67
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 8
+        width: 91
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb4f0006a04eeb4aa45d56b21c98853
+      internalID: -1068295675040865416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_68
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 7
+        width: 104
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3b2051def61404594b8697f86453f6
+      internalID: -7858253589149444504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_69
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 9
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afba911e8c943848be6c505cd32236c
+      internalID: -1058063838411795862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Justice League Task Force - Green Arrow_70
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 14
+        width: 88
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa22932d8c9f7a4c9940b695149f37b
+      internalID: 8518779920104395460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8e2b292dd345ca247a1b1d23b86ccf4e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
