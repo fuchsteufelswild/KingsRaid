@@ -16,4 +16,4 @@ State Pattern is used in order to ease the implementation and reusability of the
 
 Observer Pattern is used to implement Companion-Character relationship for commands.
 
-Various Factories are used to create Weapons, Armors, and Potions dynamically and to create all Types of SkillType and AttackType which is used many times in the game.
+Various Factories are used to create Weapons, Armors, and Potions dynamically and to create all Types of SkillType and AttackType which are used many times in the game.
