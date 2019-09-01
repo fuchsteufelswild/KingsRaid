@@ -4,7 +4,7 @@ Playable Link: https://vahsi.itch.io/kings-raid
 
 The first game I made with Unity. My main purpose of making this game was to learn core Unity features and to implement basic RPG features such as Inventory-Store-Character Screen system, Item system includes various types with dynamic creation, Companion-Enemy AI system, and other simple implementations.
 
-The class diagram of the game is at the below:
+The class diagram of the game can be seen below:
 
 ![ClassDiagram](./ClassDiagram.png)
 
