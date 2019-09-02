@@ -8,7 +8,7 @@ The first game I made with Unity. My main purpose of making this game was to lea
 
 <h3>About The Game</h3>
 
-Simple dungeoneer like game where you can buy weapons, armors, and potions. In addition to this, for a reasonable price a companion can be bought. Every weapon may have additional enchanment such as ice or fire, and every weapon has its own skill attack. After completion of each level the items in the stores are updated with more sophisticated ones. Approximately 75 enemies will spawn at each level and they get stronger gradually as you pass the levels.
+Simple dungeoneer like game where you can buy weapons, armors, and potions. In addition to this, for a reasonable price a companion can be bought. Every weapon may have additional enchanment such as ice or fire, and every weapon has its own skill attack. After completion of each level the items in the stores are updated with more sophisticated ones. Approximately 75 enemies will spawn at each level and they gradually get stronger as the player passes the levels.
 
 <h3>Design</h3>
 
