@@ -2,7 +2,15 @@
 
 Playable Link: https://vahsi.itch.io/kings-raid
 
+<h3>Introduction</h3>
+
 The first game I made with Unity. My main purpose of making this game was to learn core Unity features and to implement basic RPG features such as Inventory-Store-Character Screen system, Item system includes various types with dynamic creation, Companion-Enemy AI system, and other simple implementations.
+
+<h3>About The Game</h3>
+
+Simple dungeoneer like game where you can buy weapons, armors, and potions. In addition to this, for a reasonable price a companion can be bought. Every weapon may have additional enchanment such as ice or fire, and every weapon has its own skill attack. After completion of each level the items in the stores are updated with more sophisticated ones. Approximately 75 enemies will spawn at each level and they get stronger gradually as you pass the levels.
+
+<h3>Design</h3>
 
 The class diagram of the game can be seen below:
 
