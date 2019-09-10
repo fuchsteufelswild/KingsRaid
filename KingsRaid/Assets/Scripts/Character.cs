@@ -101,8 +101,7 @@ public class Character : Actor
     // Bind companions to character
     public void Subscribe(Companion companion)
     {
-        
-        Companion newCompanion = Instantiate(companion, this.transform.position, Quaternion.identity) as Companion;
+        Companion newCompanion = Instantiate(companion, new Vector3(this.transform.position.x, this.transform.position.y + 0.2f, this.transform.position.z), Quaternion.identity) as Companion;
         companions.Add(newCompanion);
     }
 
@@ -143,7 +142,7 @@ public class Character : Actor
 
         foreach(Companion companion in companions)
         {
-            companion.transform.position = new Vector3(targetPos.x - 0.2f, targetPos.y + 0.5f, targetPos.z);
+            companion.transform.position = new Vector3(targetPos.x - 0.2f, targetPos.y + 0.2f, targetPos.z);
         }
     }
 
