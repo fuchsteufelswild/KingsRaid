@@ -192,7 +192,7 @@ public class PlayerController : MonoBehaviour
                         CanvasScript.instance.levelAppear.GetComponent<LoadingScreen>().Perform();
                         for (float i = 14; (int)i < 114; i += 1.5f)
                         {
-                            GameObject temp = Instantiate(GameObjectContainers.instance.GetMobPrefab(Random.Range(0, 2)), new Vector3(i, 19.643f, -2.0f), Quaternion.identity) as GameObject;
+                            GameObject temp = Instantiate(GameObjectContainers.instance.GetMobPrefab(Random.Range(0, 2)), new Vector3(i, 19.630f, -2.0f), Quaternion.identity) as GameObject;
                             LevelGenerator.instance.mobs.Add(temp);
                         }
                         LevelGenerator.instance.leavePrompt.SetActive(false);
